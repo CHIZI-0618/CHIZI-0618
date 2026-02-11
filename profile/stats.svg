@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">CHIZI-0618's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 2271, Total Commits  (last year) : 254, Total PRs: 95, Total Issues: 4, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 2282, Total Commits  (last year) : 254, Total PRs: 95, Total Issues: 4, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 69.58710514841488;
+        stroke-dashoffset: 69.56881631758044;
       }
     }
   
